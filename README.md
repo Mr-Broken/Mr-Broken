@@ -8,6 +8,8 @@
 ![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/hacker-mainframe.gif?raw=True)
 
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
+## 🙋‍♂️ About Me
+
 > I'm a passionate Cyber Security Researcher and Python Developer. Currently Studying in IT. 
 
 
