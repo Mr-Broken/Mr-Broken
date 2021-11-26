@@ -1,8 +1,8 @@
 ### Hi there 👋, **I'm Neetesh Kumar Gupta aka Cyber_Boy**
 #### *Security is not just computer science – it’s a mindset*
-<br>
+
 ![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/hacker-mainframe.gif?raw=True)
-</br>
+
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 I'm a Cyber Security Researcher and Python Developer. Currently Studying in IT. 
 Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
