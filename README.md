@@ -10,7 +10,7 @@
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
 
-> I'm a passionate Cyber Security Researcher and Python Developer. Currently Studying in IT. 
+> I'm a passionate Cyber Security Researcher and Python Developer. Currently Studying in KIIT University. 
 
 
 > Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
