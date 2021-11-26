@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neetesh Kumar Gupta aka Cyber_Boy</h1>
 <h3 align="center">Security is not just computer science – it’s a mindset.</h3>
 
-![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/hacker-mainframe.gif?raw=True)
+![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/ezgif-3-f8f6668743b9.gif?raw=True)
 
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
