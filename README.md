@@ -1,5 +1,5 @@
-### Hi there 👋, **I'm Neetesh Kumar Gupta aka Cyber_Boy**
-#### *Security is not just computer science – it’s a mindset*
+### Hi there 👋, __**I'm Neetesh Kumar Gupta aka Cyber_Boy**__
+#### __*Security is not just computer science – it’s a mindset*__
 
 ![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/hacker-mainframe.gif?raw=True)
 
