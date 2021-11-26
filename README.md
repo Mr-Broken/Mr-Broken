@@ -4,7 +4,15 @@
 
 I'm a Cyber Security Researcher and Python Developer. Currently Studying in IT. 
 
+<br>
+
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+
+</br>
+
+
 Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
+
 
 - 🔭 I’m currently working on My GitHub Projects. 
 - 🌱 I’m currently learning All about IT and Security. 
@@ -18,6 +26,5 @@ Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bu
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Broken&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mr-Broken)  
 
 ![Profile views](https://gpvc.arturio.dev/Mr-Broken)  
