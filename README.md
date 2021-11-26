@@ -7,7 +7,7 @@
 I'm a Cyber Security Researcher and Python Developer. Currently Studying in IT. 
 
 
-Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
+> Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
 
 - 🔭 I’m currently working on My GitHub Projects. 
 - 🌱 I’m currently learning All about IT and Security. 
