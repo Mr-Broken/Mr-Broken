@@ -13,7 +13,7 @@
 > ###  I'm a passionate Cyber Security Researcher and Python Developer. Currently Studying in KIIT University. 
 
 
-> ### Skills: **Red Teamer | Cyber Security Researcher | Python/Malware Developer | Bug-Bounty Hunter |**
+> ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting |**
 
 - 🔭 I’m currently working on My GitHub Projects. 
 - 🌱 I’m currently learning All about IT and Security. 
