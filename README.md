@@ -10,7 +10,7 @@
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
 
-# Hi! I’m Neetesh, I’m in my 3rd year at Kiit University, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. 
+#### Hi! I’m Neetesh, I’m in my 3rd year at Kiit University, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. 
 
 
 > ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting |**
