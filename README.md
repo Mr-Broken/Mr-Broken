@@ -10,8 +10,7 @@
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
 
-> ###  Hi! I’m Neetesh, I’m in my 3rd year at Kiit University, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. And yes I'm Python lover!
- And I am also quite good in leadership or teamwork but I normally like to work alone with a cup of hot tea and music 
+### Hi! I’m Neetesh, I’m in my 3rd year at Kiit University, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. And yes I'm Python lover!  And I am also quite good in leadership or teamwork but I normally like to work alone with a cup of hot tea and music 
 
 
 > ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting |**
@@ -39,7 +38,8 @@
 <a href="https://github.com/Mr-Broken/github-readme-activity-graph"><img alt="Cyber-Boys's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mr-Broken&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> 
 
 
 ![Profile views](https://gpvc.arturio.dev/Mr-Broken)  
+
