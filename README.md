@@ -10,7 +10,8 @@
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
 
-> ###  I'm a passionate Cyber Security Researcher and Python Developer. Currently Studying in KIIT University. 
+> ###  Hi! I’m Neetesh, I’m in my 3rd year at Kiit University, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. And yes I'm Python lover!
+ And I am also quite good in leadership or teamwork but I normally like to work alone with a cup of hot tea and music 
 
 
 > ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting |**
