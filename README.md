@@ -1,6 +1,4 @@
-<!--### Hi there 
-👋
-\_\_**I'm Neetesh Kumar Gupta aka Cyber_Boy**\_\_
+<!--### Hi \_\_**I'm Neetesh Kumar Gupta aka Cyber_Boy**\_\_
 #### __*Security is not just computer science – it’s a mindset*__
 -->
 
