@@ -2,7 +2,7 @@
 #### __*Security is not just computer science – it’s a mindset*__
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neetesh Kumar Gupta aka Cyber_Boy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neetesh Shivhare</h1>
 <h3 align="center">Security is not just computer science – it’s a mindset.</h3>
 
 ![gif from nerdy.dev](https://github.com/Mr-Broken/Mr-Broken/blob/main/ezgif-3-f8f6668743b9.gif?raw=True)
@@ -10,10 +10,10 @@
 <!--<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">-->
 ## 🙋‍♂️ About Me
 
-#### Hi! I’m Neetesh, studying Information Technology. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an Cyber Security Researcher after I graduate. 
+#### Hi! I’m Neetesh,  Information Technology Engineer. I enjoy being able to help people and solve problems, so I’m looking forward to putting my tech skills into practice by working as an IT Engineer. 
 
 
-> ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting |**
+> ### Skills: **Red Teaming | WebApp Pentesting | Python/Malware Development | Bug-Bounty Hunting | Cloud Computing | Web Developer**
 
 - 🔭 I’m currently working on My GitHub Projects. 
 - 🌱 I’m currently learning All about IT and Security. 
